@@ -16,15 +16,9 @@ Welcome to the official GitHub repository for the **187 Roleplay FiveM server**!
 
 ## Server History
 
-The journey of 187 Roleplay has been nothing short of remarkable. What began as a small server created for personal enjoyment soon grew into one of the largest FiveM servers in Bulgaria. Here are some significant milestones in the server's history:
-
 - **2020: Inception** - The server was launched in 2020, initially intended as a private project for a small group of friends. However, its unique gameplay and engaging roleplay environment quickly attracted a growing player base.
 
-- **2021: Expansion and Recognition** - Word of mouth spread about the server, leading to a significant increase in player count. The server gained recognition within the Bulgarian gaming community and started building a strong and dedicated player community.
-
-- **2022: Community Growth** - With the increasing popularity, the server expanded its capacity and introduced new features to enhance the roleplay experience. Regular events, tournaments, and community gatherings were organized, fostering a sense of camaraderie among the players.
-
-- **2023: Prominence** - By 2023, 187 Roleplay had firmly established itself as one of the leading FiveM servers in Bulgaria. Its active and engaged player community, continuous development, and commitment to providing an exceptional roleplay experience contributed to its prominence.
+- **2021: Project Cancellation** - Unfortunately, due to unforeseen circumstances, the project was canceled in 2021. Despite its popularity and success, the server could no longer continue its operations. We would like to thank the entire community for their support and dedication throughout this journey.
 
 ## Contributing
 
