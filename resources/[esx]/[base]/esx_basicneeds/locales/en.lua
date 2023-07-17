@@ -1,0 +1,17 @@
+Locales['en'] = {
+  ['used_bread'] = 'Ти изяде ~y~1x~s~ ~b~Хляб~s~',
+  ['used_cake'] = 'Ти изяде ~y~1x~s~ ~b~Торта~s~',
+  ['used_beef'] = 'Ти изяде ~y~1x~s~ ~b~Кебапче~s~',
+  ['used_bolchips'] = 'Ти изяде ~y~1x~s~ ~b~Фъстъци~s~',
+  ['used_hamburger'] = 'Ти изяде ~y~1x~s~ ~b~Бургер~s~',
+  ['used_hamburgerplate'] = 'Ти изяде ~y~1x~s~ ~b~Бургер с кюфтета~s~',  
+  ['used_water'] = 'Ти изпи ~y~1x~s~ ~b~Водa~s~',
+  ['used_cocacola'] = 'Ти изпи ~y~1x~s~ ~b~Кока-Кола~s~',
+  ['used_soda'] = 'Ти изпи ~y~1x~s~ ~b~Сода~s~',
+  ['used_icetea'] = 'Ти изпи ~y~1x~s~ ~b~Студен чай~s~',
+  ['used_drpepper'] = 'Ти изпи ~y~1x~s~ ~b~Др. Пепър~s~',
+  ['used_whisky'] = 'Ти изпи ~y~1x~s~ ~b~Уиски~s~',
+  ['used_vodka'] = 'Ти изпи ~y~1x~s~ ~b~Водка~s~',
+  ['used_vine'] = 'Ти изпи ~y~1x~s~ ~b~Вино~s~',
+  ['used_martini'] = 'Ти изпи ~y~1x~s~ ~b~Мартини~s~',
+}

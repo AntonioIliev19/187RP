@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.container-fluid {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    left: -7vw;
+    top: 19vw;
+    transition: right 1.0s;
+}
+
+.container {
+    display: block;
+    top: 3vw;
+}
+
+.bar {
+    margin-bottom: 1vw;
+}
+.circle {
+    height: 2.5vw;
+    width: 2.5vw;
+    background-repeat: no-repeat;
+    background-size: 1.5vw 1.5vw;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 0.5vw;
+    background-position: center;
+    padding-right: 0.1vw
+}
+#circle-inventory {
+    background-image: url("https://image.flaticon.com/icons/svg/179/179507.svg");
+    border-left: 0.1vw solid #D35400;
+    float: left;
+}
+
+#circle-voice {
+    background-image: url("https://image.flaticon.com/icons/svg/204/204320.svg");
+    border-left: 0.1vw solid #22d640;
+    float: left;
+}
+
+#circle-fuel {
+    background-image: url("https://image.flaticon.com/icons/svg/1170/1170466.svg");
+    border-left: 0.1vw solid #ea1010;
+    float: left;
+}
+
+#circle-thirst {
+    background-image: url("https://image.flaticon.com/icons/svg/824/824239.svg");
+    border-left: 0.1vw solid #2fb6ed;
+    float: left;
+}
+
+#circle-hunger {
+    background-image: url("https://image.flaticon.com/icons/svg/1046/1046784.svg");
+    border-left: 0.1vw solid #efa236;
+    float: left;
+}
+
+.progress {
+    position: absolute;
+    z-index: -1;
+    height: 5.5vw;
+    width: 100vw;
+    border-radius: 0.0vw;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.field {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 2.5vw;
+    height: 2.50vw;
+    color: #fff;
+    text-align: center;
+    line-height: 24px;
+    font-family: 'Roboto', sans-serif;
+}
+#inventory {
+    float: left;
+    margin-left: 97.25vw;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+#voice {
+    float: left;
+    margin-left: 97.25vw;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+#fuel {
+    float: left;
+    margin-left: 97.25vw;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+#thirst {
+    float: left;
+    margin-left: 99.67vw;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+#hunger {
+    float: left;
+    margin-left: 99.67vw;
+    background-color: rgba(0, 0, 0, 0.2);
+}

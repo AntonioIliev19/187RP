@@ -1,0 +1,73 @@
+Locales['en'] = {
+  -- Cloakroom
+  ['cloakroom'] = 'Съблекалня',
+  ['ems_clothes_civil'] = 'Цивилно Облекло',
+  ['ems_clothes_ems'] = 'Работно Облекло',
+  -- Vehicles
+  ['veh_menu'] = 'МПС',
+  ['veh_spawn'] = 'Натисни ~INPUT_CONTEXT~ за да изкараш МПС',
+  ['store_veh'] = 'Натисни ~INPUT_CONTEXT~ за да прибереш МПС',
+  ['ambulance'] = 'Линейка',
+  ['helicopter'] = 'Хеликоптер',
+  -- Action Menu
+  ['hospital'] = 'Болница',
+  ['revive_inprogress'] = 'a revive is in progress!',
+  ['revive_complete'] = 'Ти съживи ~y~%s~s~',
+  ['revive_complete_award'] = 'Ти съживи ~y~%s~s~ и спечели ~g~$%s~s~!',
+  ['heal_inprogress'] = 'you are healing!',
+  ['heal_complete'] = 'Ти излекува ~y~%s~s~',
+  ['no_players'] = 'Няма играчи наблизо',
+  ['no_vehicles'] = 'Няма МПС-та наблизо',
+  ['player_not_unconscious'] = 'Този играч е в съзнание!',
+  ['player_not_conscious'] = 'Този играч не е в съзнание!',
+  -- Boss Menu
+  ['boss_actions'] = 'Шефско меню',
+  -- Misc
+  ['invalid_amount'] = '~r~невалидна сума',
+  ['open_menu'] = 'Натисни ~INPUT_CONTEXT~ за да отвориш менюто',
+  ['deposit_amount'] = 'Депозирай пари',
+  ['money_withdraw'] = 'Изтегли пари',
+  ['fast_travel'] = 'Натисни ~INPUT_CONTEXT~ to fast travel.',
+  ['open_pharmacy'] = 'Натисни ~INPUT_CONTEXT~ за да отвориш шкафа.',
+  ['pharmacy_menu_title'] = 'Фармация',
+  ['pharmacy_take'] = 'Вземи',
+  ['medikit'] = 'Аптечки',
+  ['bandage'] = 'Бандажи',
+  ['max_item'] = 'Вече носите достатъчно в себе си.',
+  ['no_vehicles_nearby'] = 'Наблизо няма превозни средства',
+  -- F6 Menu
+  ['ems_menu'] = 'EMS Меню',
+  ['ems_menu_title'] = 'EMS Меню',
+  ['ems_menu_revive'] = 'Съживи играч',
+  ['ems_menu_putincar'] = 'put in Vehicle',
+  ['ems_menu_small'] = 'Лекувай леки наранявания',
+  ['ems_menu_big'] = 'Лекувай сериозни наранявания',
+  -- Phone
+  ['alert_ambulance'] = 'alert Ambulance',
+  -- Death
+  ['respawn_available_in'] = 'Ще може да се съживите след ~b~%s минути %s секунди~s~',
+  ['respawn_bleedout_in'] = 'Ще изкървите след ~b~%s минути %s секунди~s~\n',
+  ['respawn_bleedout_prompt'] = 'Натисни [~b~E~s~] за да се респаунеш',
+  ['respawn_bleedout_fine'] = 'Задръж [~b~E~s~] за да се респаунеш за ~g~$%s~s~',
+  ['respawn_bleedout_fine_msg'] = 'Ти плати ~r~$%s~s~ за респаун.',
+  ['distress_send'] = 'Натисни [~b~G~s~] за да изпратиш сигнал за бедствие',
+  ['distress_sent'] = 'Сигнал за бедствие е изпратен до наличните медици!',
+  ['distress_message'] = 'Необходима медицинска помощ: гражданин в безсъзнание!',
+  -- Revive
+  ['revive_help'] = 'Съживи играч',
+  -- Item
+  ['used_medikit'] = 'Ти използва ~y~1x~s~ аптечка',
+  ['used_bandage'] = 'Ти използва ~y~1x~s~ бандаж',
+  ['not_enough_medikit'] = 'Ти нямаш ~b~аптечки~s~.',
+  ['not_enough_bandage'] = 'Ти нямаш ~b~бандажи~s~.',
+  ['healed'] = 'Вие бяхте излекуван.',
+  --hospitalize
+  ['hospital_menu'] = 'Изпрати в болница',
+  ['patient_dead'] = 'Пациентът умря',
+  ['patient_brokenarm'] = 'Broken arm',
+  ['patient_shotwound'] = 'Gunshot wound',
+  ['patient_shotwound'] = 'Gunshot wound',
+  ['patient_headinjury'] = 'Head Injury',
+  ['veh_repaired']      = '~g~Vehicle Repaired',
+  ['vehicle_interaction'] = 'vehicle Interaction',
+}

@@ -1,0 +1,4 @@
+INSERT INTO `vehicles` (name, model, price, category) VALUES
+	('Audi', 'SQ7', 175000, 'audi'),
+	('Mercedes', 'CL65', 750000, 'mercedes')
+;
